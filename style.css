@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+}
+#aqua {
+    width: 860px;
+    height: 250px;
+    background-color: aqua;
+    display: flex;
+    justify-content:space-between;
+    padding: 40px;
+    margin: 20px;
+    padding-top: 60px;
+    vertical-align: center;
+
+}
+#purple {
+    width: 900px;
+    height: 250px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 20px;
+    padding-top: 60px;
+
+}
+#gold {
+    width: 900px;
+    height:250px;
+    background-color: gold;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    padding-top: 60px;
+    margin-left: 20px;
+
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin-right:55px;
+
+}
